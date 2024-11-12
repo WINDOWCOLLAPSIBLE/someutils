@@ -4,7 +4,7 @@
         "Name": "MP Tick Bar-Fork",
         "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
         "InternalName": "MPTickBarFork",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/marconsou/mp-tick-bar",
         "ApplicableVersion": "any",
         "Tags": [
@@ -22,6 +22,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1731377278"
+        "LastUpdated": "1731455753"
     }
 ]
