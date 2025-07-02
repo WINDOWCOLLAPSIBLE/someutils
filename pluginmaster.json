@@ -22,30 +22,14 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1744479412"
-    },
-    {
-        "Author": "C",
-        "Name": "FPS Plugin-fork",
-        "Description": "Display game FPS. It really is that simple.",
-        "InternalName": "FPSPlugin-fork",
-        "AssemblyVersion": "1.7.0.4",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1744479412"
+        "LastUpdated": "1751445640"
     },
     {
         "Author": "C",
         "Name": "HardwareInfo",
         "Description": "Show some information",
         "InternalName": "HardwareInfo",
-        "AssemblyVersion": "0.0.0.11",
+        "AssemblyVersion": "0.0.0.12",
         "ApplicableVersion": "any",
         "Tags": [
             "hardware",
@@ -62,6 +46,22 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1744479412"
+        "LastUpdated": "1751445640"
+    },
+    {
+        "Author": "C",
+        "Name": "FPS Plugin-fork",
+        "Description": "Display game FPS. It really is that simple.",
+        "InternalName": "FPSPlugin-fork",
+        "AssemblyVersion": "1.7.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1751445640"
     }
 ]
