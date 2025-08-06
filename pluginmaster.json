@@ -22,31 +22,7 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1751445640"
-    },
-    {
-        "Author": "C",
-        "Name": "HardwareInfo",
-        "Description": "Show some information",
-        "InternalName": "HardwareInfo",
-        "AssemblyVersion": "0.0.0.12",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hardware",
-            "fps",
-            "ping",
-            "plugin",
-            "C"
-        ],
-        "DalamudApiLevel": 12,
-        "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/HardwareInfo.png",
-        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1751445640"
+        "LastUpdated": "1754441606"
     },
     {
         "Author": "C",
@@ -62,6 +38,30 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1751445640"
+        "LastUpdated": "1754441606"
+    },
+    {
+        "Author": "C",
+        "Name": "HardwareInfo",
+        "Description": "Show some information",
+        "InternalName": "HardwareInfo",
+        "AssemblyVersion": "0.0.0.12",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hardware",
+            "fps",
+            "ping",
+            "plugin",
+            "C"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/HardwareInfo.png",
+        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1754441606"
     }
 ]
