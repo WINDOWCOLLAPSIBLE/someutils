@@ -1,5 +1,29 @@
 [
     {
+        "Author": "C",
+        "Name": "HardwareInfo",
+        "Description": "Show some information",
+        "InternalName": "HardwareInfo",
+        "AssemblyVersion": "0.0.0.14",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "hardware",
+            "fps",
+            "ping",
+            "plugin",
+            "C"
+        ],
+        "DalamudApiLevel": 13,
+        "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/HardwareInfo.png",
+        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1754745293"
+    },
+    {
         "Author": "Marconsou",
         "Name": "MP Tick Bar-Fork",
         "Description": "-Fast Fire III marker on the bar.\n-Autostarts the bar before combat starts.\n-Countdown with time offset.\n-Compatible with FFXIV Material UI.",
@@ -22,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1754651566"
+        "LastUpdated": "1754745293"
     },
     {
         "Author": "C",
@@ -38,30 +62,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1754651566"
-    },
-    {
-        "Author": "C",
-        "Name": "HardwareInfo",
-        "Description": "Show some information",
-        "InternalName": "HardwareInfo",
-        "AssemblyVersion": "0.0.0.13",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "hardware",
-            "fps",
-            "ping",
-            "plugin",
-            "C"
-        ],
-        "DalamudApiLevel": 13,
-        "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/HardwareInfo.png",
-        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1754651566"
+        "LastUpdated": "1754745293"
     }
 ]
