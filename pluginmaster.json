@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/MPTickBarFork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1766100336"
+        "LastUpdated": "1766253719"
     },
     {
         "Author": "C",
@@ -38,14 +38,14 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/FPSPlugin-fork/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1766100336"
+        "LastUpdated": "1766253719"
     },
     {
         "Author": "C",
         "Name": "HardwareInfo",
         "Description": "HardwareInfoPlugin.",
         "InternalName": "HardwareInfo",
-        "AssemblyVersion": "0.0.0.22",
+        "AssemblyVersion": "0.0.0.23",
         "ApplicableVersion": "any",
         "Tags": [
             "hardware",
@@ -62,6 +62,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/someutils/raw/master/plugins/HardwareInfo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1766100336"
+        "LastUpdated": "1766253719"
     }
 ]
